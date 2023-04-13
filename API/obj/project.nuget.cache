@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Dxij3jdiB4BBqROJG2Ba4/004ZQSV0SBi/HjIpUyRVkwLYlAI0U92YV6e7PkRwprMxGX2Lw4+Y/dNsl5VWj0+w==",
+  "dgSpecHash": "elnG8GN1Ksh5sT3OYHRr9gtbI36USAz8LBIvnLAAJq/YGQTo75yEHGMAlz1cQipGvqtfG4fzhAoFOO7w1OFhGA==",
   "success": true,
   "projectFilePath": "H:\\codingProjects\\myProjects\\Ecommerce\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,6 @@
     "C:\\Users\\Khaled Taha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\Khaled Taha\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Khaled Taha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Khaled Taha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Khaled Taha\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Khaled Taha\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
